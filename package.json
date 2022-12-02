@@ -8,7 +8,6 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.4",
-    "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "axios": "^1.2.0",
     "react": "^18.2.0",
@@ -44,6 +43,19 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^18.0.26",
     "@types/styled-components": "^5.1.26"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-CodingOctopus/CodingOctopus-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-CodingOctopus/CodingOctopus-client/issues"
+  },
+  "homepage": "https://github.com/Team-CodingOctopus/CodingOctopus-client#readme"
 }
